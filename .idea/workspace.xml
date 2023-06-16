@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b724081-cc48-4cfc-8cf9-16844b135d21" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="All" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="1xfwnlKU8XoIqYSMUq11jMNDVnN" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="exceleditor.install" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../juc" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="__14树结构基础" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEAProject\test\DataStructureAndAlgorithm\doc" />
+      <recent name="E:\IDEAProject\test\DataStructureAndAlgorithm\LinearStructure\src\main\java\__14树结构基础" />
+      <recent name="E:\IDEAProject\test\DataStructureAndAlgorithm\LinearStructure\src\main\java\_09中缀转后缀" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SingleLinkedListDemo">
+    <configuration name="BinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="__14树结构基础.BinaryTreeDemo" />
+      <module name="DataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulatedCircularQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02队列.SimulatedCircularQueue" />
+      <module name="DataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleLinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03单链表.SingleLinkedListDemo" />
+      <module name="DataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViolenceMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="__04KMP算法.ViolenceMatch" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConversionBetweenTwoDimensionalArrayAndSparseArray.readArrays" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructure" />
+      <option name="PACKAGE_NAME" value="_01稀疏数组" />
+      <option name="MAIN_CLASS_NAME" value="_01稀疏数组.ConversionBetweenTwoDimensionalArrayAndSparseArray" />
+      <option name="METHOD_NAME" value="readArrays" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="lua.app" factoryName="Lua Application">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="" />
+      <option name="workingDir" value="$PROJECT_DIR$/LinearStructure/src/test/java" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SingleLinkedListDemo" />
+        <item itemvalue="Application.SimulatedCircularQueue" />
+        <item itemvalue="Application.BinaryTreeDemo" />
+        <item itemvalue="JUnit.ConversionBetweenTwoDimensionalArrayAndSparseArray.readArrays" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="5b724081-cc48-4cfc-8cf9-16844b135d21" name="默认变更列表" comment="" />
+      <created>1630759622169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630759622169</updated>
+      <workItem from="1630759625453" duration="3278000" />
+      <workItem from="1630811725626" duration="23610000" />
+      <workItem from="1630906865451" duration="1211000" />
+      <workItem from="1630908155148" duration="15600000" />
+      <workItem from="1630994791684" duration="538000" />
+      <workItem from="1630996754325" duration="10664000" />
+      <workItem from="1631012089735" duration="9778000" />
+      <workItem from="1631103723800" duration="1016000" />
+      <workItem from="1631153720651" duration="34009000" />
+      <workItem from="1631349882787" duration="14287000" />
+      <workItem from="1631426536000" duration="3312000" />
+      <workItem from="1631430998149" duration="9772000" />
+      <workItem from="1631704864003" duration="5184000" />
+      <workItem from="1632010563689" duration="17075000" />
+      <workItem from="1632041708056" duration="10742000" />
+      <workItem from="1632095104332" duration="12475000" />
+      <workItem from="1632151788881" duration="10938000" />
+      <workItem from="1632216264872" duration="1618000" />
+      <workItem from="1632622610806" duration="102000" />
+      <workItem from="1633487712085" duration="656000" />
+      <workItem from="1633506557287" duration="112000" />
+      <workItem from="1633764909210" duration="4969000" />
+      <workItem from="1633785584537" duration="12936000" />
+      <workItem from="1633863637495" duration="17205000" />
+      <workItem from="1633950789700" duration="40505000" />
+      <workItem from="1634227431413" duration="5834000" />
+      <workItem from="1634299415265" duration="4339000" />
+      <workItem from="1634375217507" duration="601000" />
+      <workItem from="1634462310027" duration="8099000" />
+      <workItem from="1634604699503" duration="818000" />
+      <workItem from="1634605961305" duration="9842000" />
+      <workItem from="1635003655183" duration="1792000" />
+      <workItem from="1635006368610" duration="15991000" />
+      <workItem from="1635124059020" duration="1282000" />
+      <workItem from="1635401920268" duration="12023000" />
+      <workItem from="1635468572573" duration="32000" />
+      <workItem from="1635505070243" duration="10923000" />
+      <workItem from="1635562716797" duration="128000" />
+      <workItem from="1649471119587" duration="667000" />
+      <workItem from="1649471844108" duration="44000" />
+      <workItem from="1649471924742" duration="478000" />
+      <workItem from="1649472987146" duration="2917000" />
+      <workItem from="1649477460563" duration="817000" />
+      <workItem from="1649661239887" duration="9807000" />
+      <workItem from="1649675599074" duration="7126000" />
+      <workItem from="1649687207660" duration="2271000" />
+      <workItem from="1649694483387" duration="73000" />
+      <workItem from="1649921894985" duration="1419000" />
+      <workItem from="1649923357061" duration="11554000" />
+      <workItem from="1650028837064" duration="50000" />
+      <workItem from="1650073102977" duration="112000" />
+      <workItem from="1654568677818" duration="1289000" />
+      <workItem from="1685449722571" duration="883000" />
+      <workItem from="1685458417748" duration="1143000" />
+      <workItem from="1685466959437" duration="58000" />
+      <workItem from="1685817372858" duration="8227000" />
+      <workItem from="1686666757711" duration="23316000" />
+      <workItem from="1686891819341" duration="559000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/__08Dijkstra算法/DijkstraAlgorithm.java</url>
+          <line>76</line>
+          <properties class="__08Dijkstra算法.Graph" method="update">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="_04双链表.HeroNode" memberName="next" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
